@@ -29,10 +29,3 @@ addressZipCode = "1000";
 fullAddress = addressCity + " " + addressStreet + " " + addressZipCode;
 
 console.log( "fullAddress", fullAddress );
-
-
-
-
-
-
-
